@@ -1,0 +1,28 @@
+.highlight{
+    color:green;
+    font-size: 2em;
+}
+li{
+    list-style: none;
+}
+.right{
+    float: right;
+    margin-right: 15px;
+}
+.more > button{
+        margin-left: 20px;
+}
+.photos{
+    display: none;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+h4{
+        margin: 0px 0px 5px 0px;
+    padding: 0px 0px 0px 0px;
+}
+span {
+    display: none;
+}
