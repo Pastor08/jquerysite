@@ -9,3 +9,7 @@ Project was created with:
 * HTML
 * CSS
 * jQuery-3.2.1
+
+## Setup
+To run this project click link:
+[Click me!](https://spastuszka.github.io/jquerysite/)
