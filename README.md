@@ -4,7 +4,7 @@
 This page was created to familiarize yourself with the jQuery library. I was looking for a way by completing course tasks
 
 ## Technologies
-Project is created with:
+Project was created with:
 
 * HTML
 * CSS
