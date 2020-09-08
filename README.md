@@ -1,1 +1,1 @@
-#jQuery Site - Site Witryna stworzona do nauki programowania#
+#jQuery Site - Site create for learning programming#
